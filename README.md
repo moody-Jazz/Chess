@@ -19,7 +19,7 @@ Welcome to the **Chess Engine** project! This Java-based chess engine is designe
 
 ## Getting Started
 
-1. **Download**: Grab the latest release from the [releases page](https://github.com/divyaanshu/ChessEngine/releases).
+1. **Download**: Grab the latest release from the [releases page](https://github.com/divyaashu931/).
 2. **Install a UCI Interface**: Choose a UCI-compatible chess interface (e.g., [Arena Chess GUI](http://www.playwitharena.com/)).
 3. **Register the Chess Engine**: Add the engine as an available opponent in your chosen interface.
 4. **Play!**: Start a game and explore the engine's capabilities.
