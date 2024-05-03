@@ -1,5 +1,5 @@
 Certainly! Here's an updated README specifically for your **Chess Engine**:
-
+Author: Amit Yadav
 ---
 
 # Chess Engine
